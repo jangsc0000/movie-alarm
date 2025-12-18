@@ -22,7 +22,7 @@
 ## ✨ Key Features
 
 *   **⚡ Real-time Notification**: 예매 오픈 즉시 알림 발송
-*   **🎥 Major Theaters**: CGV, Megabox, Lotte Cinema 주요 지점 지원
+*   **🎥 Major Theaters**: CGV, Megabox 주요 지점 지원
 *   **📱 Mobile Friendly**: 반응형 웹 디자인으로 모바일에서도 완벽한 가독성
 *   **🎨 Dark & Cinematic UI**: 영화관의 몰입감을 살린 다크 테마 디자인
 
