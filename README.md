@@ -45,11 +45,6 @@
 3. 예매가 열리면 누구보다 빠르게 알림을 받을 수 있습니다.
 
 <br>
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
 ---
 <p align="center">
   <i>Developed by Movie Alarm Project Team</i>
