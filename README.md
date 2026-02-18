@@ -4,7 +4,7 @@
 > CGV IMAX, Megabox Dolby Cinema 등 기다리던 특별관 예매가 열리면 가장 먼저 알려드립니다.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjangsc0000.github.io%2Fmovie-alarm%2F&style=for-the-badge&label=STATUS&logo=github)](https://jangsc0000.github.io/movie-alarm/)
-[![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/zBFR3hPP)
+[![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7JUmzugwek)
 ![License](https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge)
 
 <br>
@@ -40,7 +40,7 @@
 
 ## 🚀 How To Join
 
-1. 웹사이트의 **[알림 채널 입장하기](https://discord.gg/zBFR3hPP)** 버튼을 클릭하세요.
+1. 웹사이트의 **[알림 채널 입장하기](https://discord.gg/7JUmzugwek)** 버튼을 클릭하세요.
 2. 디스코드 서버에 입장하여 원하는 알림 설정을 확인하세요.
 3. 예매가 열리면 누구보다 빠르게 알림을 받을 수 있습니다.
 
