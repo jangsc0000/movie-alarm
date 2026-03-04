@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jangsc0000.github.io/movie-alarm/sitemap.xml
