@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Movie Alarm">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#1b2337"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1040" cy="120" r="140" fill="#5865F2" opacity="0.25"/>
+  <text x="80" y="255" fill="#ffffff" font-size="78" font-family="'Noto Sans KR', sans-serif" font-weight="900">MOVIE ALARM</text>
+  <text x="82" y="335" fill="#d6defa" font-size="42" font-family="'Noto Sans KR', sans-serif" font-weight="700">특별관 예매 알리미</text>
+  <text x="82" y="405" fill="#aab8e8" font-size="32" font-family="'Noto Sans KR', sans-serif" font-weight="500">CGV IMAX · Megabox Dolby Cinema · 코돌비 · 용아맥</text>
+</svg>

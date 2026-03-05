@@ -1,7 +1,7 @@
 # 🎬 Movie Ticket Alarm (특별관 예매 알리미)
 
 > **"NEVER MISS"**
-> CGV IMAX, Megabox Dolby Cinema 등 기다리던 특별관 예매가 열리면 가장 먼저 알려드립니다.
+> CGV IMAX, Megabox Dolby Cinema, 코돌비, 용아맥 등 기다리던 특별관 예매가 열리면 가장 먼저 알려드립니다.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjangsc0000.github.io%2Fmovie-alarm%2F&style=for-the-badge&label=STATUS&logo=github)](https://jangsc0000.github.io/movie-alarm/)
 [![Discord](https://img.shields.io/discord/1234567890?color=5865F2&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7JUmzugwek)
